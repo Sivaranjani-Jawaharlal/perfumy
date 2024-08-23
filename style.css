@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+
+}
+ul{
+    margin-left: 60%;
+}
+li{    
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.one{
+    padding: 20px;
+    margin-left: 40%;
+    width: px;
+}
+input{
+    width: 60%;
+    margin: 15px;
+    padding:15px;
+}
+.box{
+    text-align: center;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width:700px;
+    display: inline-block;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+}
+.about{
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
+.contact{
+    background-color: black;
+    
+    color:gray;
+}
